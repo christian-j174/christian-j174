@@ -1,16 +1,15 @@
-### Hi there 👋
+## Christian J. Rodriguez Nazario
+Software Engineering at the University of Puerto Rico, Mayagüez. Interested in Web Development and cyber-security. Im open to any internship/research that provides development opportunities in  any related fields.
 
-<!--
-**christian-j174/christian-j174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Python
+- C++
+- HTML/CSS/Javascript
+- RPA
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ways to reach me 
+- christian@chrisventurestech.com
+- https://chrisventurestech.com/
+    
+    
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-j174&theme=tokyonight%20)](https://github.com/christian-j174/github-readme-stats)
