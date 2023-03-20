@@ -12,4 +12,4 @@ Software Engineering at the University of Puerto Rico, Mayagüez. Interested in 
 - https://chrisventurestech.com/
     
     
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-j174&theme=tokyonight%20)](https://github.com/christian-j174/github-readme-stats)
+![christian-j174's Streak](https://github-readme-streak-stats.herokuapp.com/?user=christian-j174&theme=ayu-mirage&hide_border=true)
