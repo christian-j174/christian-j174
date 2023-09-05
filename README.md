@@ -1,14 +1,12 @@
 ## Christian J. Rodriguez Nazario
-Software Engineering at the University of Puerto Rico, Mayagüez. Interested in Web Development and Cyber-security. Im open to any internship/research that provides development opportunities in  any related fields.
-
-### Skills
+I am currently pursuing a Computer Science and Engineering bachelor at the University of Puerto Rico-Mayagüez. I am open to any potential internship or research opportunities that align with my fields of interest.
 - Python
 - C++
 - HTML/CSS/Javascript
 - RPA
 
 ### Ways to reach me 
-- christian@chrisventurestech.com
+- christian.rodriguez95@upr.edu
 - https://www.christianrodriguez.info/
     
     
