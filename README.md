@@ -7,4 +7,3 @@ I am currently pursuing a Computer Science and Engineering bachelor at the Unive
 - https://www.christianrodriguez.info/
     
     
-![christian-j174's Stats](https://github-readme-stats.vercel.app/api?username=christian-j174&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
