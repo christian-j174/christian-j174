@@ -1,5 +1,5 @@
 ## Christian J. Rodriguez Nazario
-I am currently pursuing a Computer Science and Engineering bachelor at the University of Puerto Rico-Mayagüez. I am open to any potential internship or research opportunities that align with my fields of interest.
+I am currently pursuing a Computer Science and Engineering bachelor's degree at the University of Puerto Rico-Mayagüez. I am open to any potential internship or research opportunities that align with my fields of interest.
 
 
 ### Ways to reach me 
