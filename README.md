@@ -1,20 +1,19 @@
 <div align="center">
 
-# Christian J. Rodriguez
+# Christian J. Rodríguez Nazario
 
-**Computer Engineering @ UPRM · Puerto Rico**
+**Computer Engineering @ UPRM**
 
-Software products · Embedded systems · RF & digital design
+Software Solution · Embedded systems · RF & digital design
 
 </div>
 
 ---
 
-I build software products and explore the intersection of computing, electronics, and communication systems.
 
 ### Focus
 
-- **Software:** web applications, product development, and automation.
+- **Software:** product development, cloud computing and automation.
 - **Hardware:** FPGA design, embedded systems, and computer architecture.
 - **Signals:** RF, digital signal processing, and wireless communications.
 
