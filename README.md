@@ -31,7 +31,6 @@
 ### MVP
 
 **[Zorzal Pilot](https://zorzalpr.com/)** : Channel that connect contractors with suppliers in Puerto Rico.
-### In development
 
 **[EngineerReadiness](https://engineerreadiness.com/)** : A platform for FE Electrical & Computer exam preparation.
 
