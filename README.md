@@ -4,7 +4,6 @@
 
 **Computer Engineering @ UPRM**
 
-Software Solution · Embedded systems · RF & digital design
 
 </div>
 
@@ -24,12 +23,14 @@ Software Solution · Embedded systems · RF & digital design
 | [deepSonarRF](https://github.com/christian-j174/deepSonarRF) | Detection of 5G-like signals in VLA data. | Python |
 | [Simon on FPGA](https://github.com/christian-j174/Game_of_Simon_FPGA) | A memory game implemented on an FPGA. | VHDL |
 
+### MVP
+
+**[Zorzal Pilot](https://zorzalpr.com/)** : Zorzal connects contractors with suppliers in Puerto Rico. Send one request for quotes to multiple suppliers, compare offers side by side, and pay securely.
+
 ### In development
 
-**EngineerReadiness** — A platform for FE Electrical & Computer exam preparation.
+**[EngineerReadiness](https://engineerreadiness.com/)** : A platform for FE Electrical & Computer exam preparation.
 
-**Clasificados Carros** — A vehicle discovery and classifieds platform for Puerto Rico.
+**[Clasificados Carros](https://www.clasificadoscarros.com/)** : A vehicle discovery and classifieds platform for Puerto Rico.
 
-### Toolkit
 
-`Python` · `TypeScript` · `Next.js` · `VHDL` · `Verilog` · `Git` · `Docker`
