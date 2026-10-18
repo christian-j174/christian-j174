@@ -5,7 +5,7 @@
 **Computer Engineering @ UPRM**
 
 <p align="center">
-  <img src="https://cataas.com/cat?width=160"
+  <img src="https://cataas.com/cat?width=163"
        alt="Random cat"
        width="160">
 </p>
