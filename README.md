@@ -35,6 +35,6 @@
 
 **[EngineerReadiness](https://engineerreadiness.com/)** : A platform for FE Electrical & Computer exam preparation.
 
-**[Clasificados Carros](https://www.clasificadoscarros.com/)** : A vehicle discovery and classifieds platform for Puerto Rico.
+**[ClasificadosCarros](https://www.clasificadoscarros.com/)** : A vehicle discovery and classifieds platform for Puerto Rico.
 
 
