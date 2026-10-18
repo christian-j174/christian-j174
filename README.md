@@ -4,6 +4,11 @@
 
 **Computer Engineering @ UPRM**
 
+<p align="center">
+  <img src="https://cataas.com/cat?width=160"
+       alt="Random cat"
+       width="160">
+</p>
 
 </div>
 
@@ -25,8 +30,7 @@
 
 ### MVP
 
-**[Zorzal Pilot](https://zorzalpr.com/)** : Zorzal connects contractors with suppliers in Puerto Rico. Send one request for quotes to multiple suppliers, compare offers side by side, and pay securely.
-
+**[Zorzal Pilot](https://zorzalpr.com/)** : Channel that connect contractors with suppliers in Puerto Rico.
 ### In development
 
 **[EngineerReadiness](https://engineerreadiness.com/)** : A platform for FE Electrical & Computer exam preparation.
