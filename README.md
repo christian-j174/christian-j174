@@ -5,7 +5,7 @@
 **Computer Engineering @ UPRM**
 
 <p align="center">
-  <img src="https://cataas.com/cat?width=160"
+  <img src="[https://cataas.com/cat?width=160](https://cdn-imgix.headout.com/microbrands-content-image/image/c8df9dc7c3e17039e283b401e63a603b-Colosseum%20During%20Mediaeval%20Times.jpg?auto=compress%2Cformat&w=1069.6000000000001&h=687.6&q=90&ar=14%3A9&crop=faces&fit=crop)"
        alt="Random cat"
        width="160">
 </p>
