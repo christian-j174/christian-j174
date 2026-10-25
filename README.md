@@ -4,6 +4,8 @@
 
 **Computer Engineering @ UPRM**
 
+[christianrodriguez.me](https://christianrodriguez.me/) · [LinkedIn](https://www.linkedin.com/in/christian-jrn/) · [Instagram](https://www.instagram.com/timelez.pr/)
+
 <p align="center">
   <img src="https://cataas.com/cat?width=164"
        alt="Random cat"
